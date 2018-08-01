@@ -5,7 +5,7 @@
 「民主主義」、「寡頭制」の任意の候補を統治者に選ぶ際に消費する影響力を0にするチートMODです。
 
 # リンク
-steam workshop : 
+steam workshop : https://steamcommunity.com/sharedfiles/filedetails/?id=1461307407   
 
 # 変更履歴
 1.00b	試験公開
