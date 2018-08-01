@@ -1,0 +1,4 @@
+	NGameplay = {
+		ELECTION_COST						= 0 	# Base cost of electing a candidate
+		DEMOCRATIC_ELECTION_COST			= 0		# Base cost of supporting a candidate democratic election.
+	}
