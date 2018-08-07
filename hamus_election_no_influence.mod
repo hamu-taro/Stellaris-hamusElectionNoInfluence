@@ -1,4 +1,4 @@
-name="hamusElection No Influence"
+name="hamusElection No Influence[JP]"
 path="mod/hamus_election_no_influence"
 tags={
 	"Gameplay"
